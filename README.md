@@ -5,7 +5,7 @@ Required packages: Scapy (https://scapy.net/)
 
 usage: net_scan.py [-h] [-t TARGET] [-m MODE] [-p PORT]
 
-optional arguments:
+optional arguments:/n
   -h, --help            show this help message and exit
   -t TARGET, --target TARGET
                         Target IP, IP range to scan
