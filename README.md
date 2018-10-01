@@ -1,7 +1,10 @@
 # network_scanner
 A simple network scanner written in Python
 
-Required packages: Scapy (https://scapy.net/)
+Required packages: 
+Scapy (https://scapy.net/)
+Installation:
+python -m pip install scapy
 ```
 usage: net_scan.py [-h] [-t TARGET] [-m MODE] [-p PORT]
 
